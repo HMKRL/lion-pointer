@@ -9,5 +9,10 @@ int main(int argc, char *argv[])
 			printf("%d\n", a[j]);
 		}
 	}
+	i = 0;
+	while(1) {
+		if(i = 1) break;
+		i++;
+	}
 	return 0;
 }
